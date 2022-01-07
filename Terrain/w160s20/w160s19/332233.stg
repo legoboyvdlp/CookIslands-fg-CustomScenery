@@ -1,0 +1,4 @@
+OBJECT_BASE 332233.btg
+OBJECT NCAI.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -159.765748 -18.829925 6.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -159.760095 -18.836651 2.5 0.00

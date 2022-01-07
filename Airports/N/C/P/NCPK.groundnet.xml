@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<groundnet>
+    <parkingList>
+        <Parking index="0" type="gate" name="Gravel_1" lat="S10 54.802746" lon="W165 50.017119" heading="143.100000" />
+        <Parking index="1" type="gate" name="Gravel_2" lat="S10 54.797947" lon="W165 50.009981" heading="143.100000" />
+        <Parking index="2" type="gate" name="Gravel_3" lat="S10 54.793147" lon="W165 50.003154" heading="143.100000" />
+        <Parking index="3" type="gate" name="Terminal" lat="S10 54.783244" lon="W165 49.991905" heading="200.900000" />
+    </parkingList>
+</groundnet>

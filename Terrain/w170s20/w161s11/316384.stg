@@ -1,0 +1,4 @@
+OBJECT_BASE 316384.btg
+OBJECT NCMH.btg
+OBJECT_SHARED Models/Airport/windsock.xml -161.003085 -10.375219 6.5 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -161.001158 -10.379872 5.1 0.00

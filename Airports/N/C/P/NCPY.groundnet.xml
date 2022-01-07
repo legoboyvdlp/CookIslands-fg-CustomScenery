@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<groundnet>
+    <parkingList>
+        <Parking index="0" type="gate" name="Gravel_Apron" lat="S9 0.384495" lon="W158 2.164211" heading="330.300000" />
+    </parkingList>
+</groundnet>
